@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b778a5d-f14d-45eb-a80b-44189a1d3023" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/HackatonLocalesComercialesCCB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HackatonLocalesComercialesCCB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2b778a5d-f14d-45eb-a80b-44189a1d3023" name="Changes" comment="hackaton">
+      <change afterPath="$PROJECT_DIR$/analisis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mapas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mercado.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebastreamlit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prueba_scrapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/prueba_scrapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prueba_streamlit.py" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/prueba_streamlit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prueba_streamlit_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/prueba_streamlit_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapping_postgresql.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/scrapping_postgresql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlite3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proyecto/streamlite3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streamlite_mapa_prueba.py" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/streamlite_mapa_prueba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/scrapping_postgresql.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapping_postgresql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proyecto/streamlite3.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlite3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ibarajas248"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ibarajas248&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ibarajas248/Hackathon-TalentoTECH-Locales-Comerciales.git",
-    "accountId": "353b1a11-606d-42c1-b4d8-971b9ce402db"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ibarajas248/Hackathon-TalentoTECH-Locales-Comerciales.git&quot;,
+    &quot;accountId&quot;: &quot;353b1a11-606d-42c1-b4d8-971b9ce402db&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -56,14 +54,22 @@
   &quot;keyToString&quot;: {
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.prueba_scrapping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pruebastreamlit.executor&quot;: &quot;Run&quot;,
     &quot;Python.scrapping_postgresql.executor&quot;: &quot;Run&quot;,
     &quot;Python.streamlite3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/PycharmProjects/Hackathon-TalentoTECH-Locales-Comerciales&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\Hackathon-TalentoTECH-Locales-Comerciales" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\Hackathon-TalentoTECH-Locales-Comerciales" />
+      <recent name="C:\Users\USER\PycharmProjects\Hackathon-TalentoTECH-Locales-Comerciales\prueba" />
+      <recent name="C:\Users\USER\PycharmProjects\Hackathon-TalentoTECH-Locales-Comerciales\Proyecto" />
       <recent name="C:\Users\David\PycharmProjects\HackatonLocalesComercialesCCB" />
     </key>
   </component>
@@ -108,6 +114,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729006507341</updated>
     </task>
+    <task id="LOCAL-00001" summary="hackaton">
+      <option name="closed" value="true" />
+      <created>1729189415094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729189415094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hackaton" />
+    <option name="LAST_COMMIT_MESSAGE" value="hackaton" />
   </component>
 </project>

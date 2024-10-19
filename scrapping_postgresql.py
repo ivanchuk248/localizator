@@ -10,7 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # Número máximo de páginas que deseas recorrer
-max_pages = 5
+max_pages = 60
 
 # Datos de conexión a PostgreSQL
 db_host = "brmifmitysqdshmrmblh-postgresql.services.clever-cloud.com"
