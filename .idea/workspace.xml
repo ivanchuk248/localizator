@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b778a5d-f14d-45eb-a80b-44189a1d3023" name="Changes" comment="20/10/2024" />
+    <list default="true" id="2b778a5d-f14d-45eb-a80b-44189a1d3023" name="Changes" comment="20/10/2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.mapas.executor": "Run",
-    "Python.prueba_scrapping.executor": "Run",
-    "Python.pruebastreamlit.executor": "Run",
-    "Python.scrapping_postgresql.executor": "Run",
-    "Python.streamlite3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/USER/PycharmProjects/Hackathon-TalentoTECH-Locales-Comerciales"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mapas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prueba_scrapping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pruebastreamlit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scrapping_postgresql.executor&quot;: &quot;Run&quot;,
+    &quot;Python.streamlite3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/PycharmProjects/Hackathon-TalentoTECH-Locales-Comerciales&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\Hackathon-TalentoTECH-Locales-Comerciales" />
@@ -183,7 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729473690266</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="20/10/2024">
+      <option name="closed" value="true" />
+      <created>1729473844652</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729473844652</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20/10/2024">
+      <option name="closed" value="true" />
+      <created>1729474086509</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729474086509</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +219,7 @@
     <MESSAGE value="hackaton" />
     <MESSAGE value="hackaton1" />
     <MESSAGE value="hackaton1m" />
+    <MESSAGE value="20/10/2024-" />
     <MESSAGE value="20/10/2024" />
     <option name="LAST_COMMIT_MESSAGE" value="20/10/2024" />
   </component>
